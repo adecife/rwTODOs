@@ -1,4 +1,4 @@
 # Arts'n'Crafts Tutorial Ideas
 
-- [ ] Glass blowing
+- [x] Glass blowing
 - [ ] Felting
